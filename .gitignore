@@ -1,0 +1,7 @@
+build/
+out/
+*.class
+*.o
+*.exe
+.DS_Store
+__pycache__/
